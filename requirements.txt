@@ -1,0 +1,9 @@
+wordcloud
+spacy
+nltk
+textblob
+emoji
+pandas
+gensim==3.6.0
+sklearn
+seaborn
